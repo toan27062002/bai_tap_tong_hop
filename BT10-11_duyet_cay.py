@@ -2,11 +2,11 @@
 """
 Created 
 
-@author: acer
+@author:
 """
 
 from binarytree import build
-values = [9, 4, 2, 6, 7, None, 1, 5, 8]
+values = [3, 4, 7,6 , 2, None, 1, 5, 8]
 root = build(values)
 print(root)
 # duyệt cây theo thứ tự trước
