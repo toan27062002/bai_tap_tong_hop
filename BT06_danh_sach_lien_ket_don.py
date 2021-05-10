@@ -2,7 +2,7 @@
 """
 Created 
 
-@author: acer
+@author: 
 """
 
 # Node class 
