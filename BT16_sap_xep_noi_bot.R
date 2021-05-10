@@ -12,5 +12,3 @@ Bubble_sort <- function(x){
   }
   return(x)
 }
-x <- c(6, 45, 27, 37, 25, 58, 22, 86, 15, 97)
-Bubble_sort(x)
