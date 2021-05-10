@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue May  4 08:36:46 2021
-
-@author: acer
+Created
+@author:
 """
 # Python program for implementation of MergeSort
 def mergeSort(arr):
