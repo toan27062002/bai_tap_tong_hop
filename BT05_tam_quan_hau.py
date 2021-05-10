@@ -2,7 +2,7 @@
 """
 Created 
 
-@author: acer
+
 """
 
 from itertools import permutations
