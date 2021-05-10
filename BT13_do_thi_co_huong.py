@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created on Fri May  7 08:11:10 2021
+Created
 
-@author: acer
+@author: 
 """
 
 import networkx as nx
