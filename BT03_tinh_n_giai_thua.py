@@ -2,7 +2,7 @@
 """
 Created 
 
-@author: acer
+@author:
 """
 
 n = int(input("Nhập số cần tính giai thừa: "))
